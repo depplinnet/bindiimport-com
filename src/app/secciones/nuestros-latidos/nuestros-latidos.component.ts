@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-nuestros-latidos',
+  standalone: false,
   templateUrl: './nuestros-latidos.component.html',
   styleUrls: ['./nuestros-latidos.component.css']
 })

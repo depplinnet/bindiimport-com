@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-endesarrollo',
+  standalone: false,
   templateUrl: './endesarrollo.component.html',
   styleUrls: ['./endesarrollo.component.css']
 })

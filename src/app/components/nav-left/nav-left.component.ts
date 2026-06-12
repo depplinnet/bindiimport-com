@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-nav-left',
+  standalone: false,
   templateUrl: './nav-left.component.html',
   styleUrls: ['./nav-left.component.css']
 })

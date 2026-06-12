@@ -4,6 +4,7 @@ import { trigger, state, style, animate, transition } from '@angular/animations'
 
 @Component({
   selector: 'app-responsabilidad-social',
+  standalone: false,
   templateUrl: './responsabilidad-social.component.html',
   styleUrls: ['./responsabilidad-social.component.css'],
   animations:[]

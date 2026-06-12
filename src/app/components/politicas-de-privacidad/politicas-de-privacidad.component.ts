@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 
 @Component({
   selector: 'app-politicas-de-privacidad',
+  standalone: false,
   templateUrl: './politicas-de-privacidad.component.html',
   styleUrls: ['./politicas-de-privacidad.component.css']
 })

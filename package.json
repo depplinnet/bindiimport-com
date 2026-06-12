@@ -10,11 +10,10 @@
   },
   "private": true,
   "dependencies": {
-    "-": "^0.0.1",
     "@angular/animations": "^22.0.1",
     "@angular/common": "^22.0.1",
     "@angular/compiler": "^22.0.1",
-    "@angular/core": "^19.2.25",
+    "@angular/core": "^22.0.1",
     "@angular/fire": "^20.0.1",
     "@angular/forms": "^22.0.1",
     "@angular/platform-browser": "^22.0.1",
@@ -33,7 +32,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^22.0.1",
-    "@angular/cli": "^19.2.27",
+    "@angular/cli": "^22.0.1",
     "@angular/compiler-cli": "^22.0.1",
     "@types/aos": "^3.0.8",
     "@types/jasmine": "^6.0.0",
